@@ -3,7 +3,7 @@
 #include <WiFi.h>
 
 const char *SSID = "sala 09";  // rede wifi
-const char *SENHA = "inf@134"; // senha wifi
+const char *SENHA = "info@134"; // senha wifi
 const unsigned long tempoEsperaConexao = 15000;
 const unsigned long tempoEsperaReconexao = 5000;
 
